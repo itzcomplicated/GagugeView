@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GaugeView">
+        <attr name="minValue" format="float" />
+        <attr name="maxValue" format="float" />
+        <attr name="intScale" format="boolean" />
+        <attr name="initialValue" format="float" />
+        <attr name="needleShadow" format="boolean" />
+        <attr name="infoTextSize" format="float" />
+        <attr name="unitText" format="string" />
+    </declare-styleable>
+
+</resources>

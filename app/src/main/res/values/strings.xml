@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GaugeViewSample</string>
+    <string name="value_20">Set Value To 20</string>
+    <string name="value_50">Set Value To 50</string>
+    <string name="value_80">Set Value To 80</string>
+</resources>
